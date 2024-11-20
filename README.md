@@ -4,4 +4,4 @@
 
 Currently studying...
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,go,html,css,js,ts,vue,nuxt,dart,flutter)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,html,css,js,ts,tailwind,vue,nuxt,dart,flutter)
